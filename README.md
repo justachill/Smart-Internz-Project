@@ -1,6 +1,6 @@
 # SmartInternz-Project
 
-This is a personal GitHub repo made for the final submission of the Smartinternz Externship.
+This is a personal GitHub repo made for the final submission of the Smartinternz Externship by Divyansh Singh 20BCI0081.
 
 ## Assignments
 
